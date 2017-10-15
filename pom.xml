@@ -7,6 +7,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-mvc Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+
+<!-- add test -->
 	<properties>
 		<java.version.source>1.8</java.version.source>
 		<java.version.target>1.8</java.version.target>
